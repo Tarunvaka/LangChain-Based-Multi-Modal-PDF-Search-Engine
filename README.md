@@ -3,7 +3,8 @@ This project is a Retrieval-Augmented Generation (RAG) pipeline that enables int
 
 --- 
 Notebook link if not opened in repo
-[Notebook](https://colab.research.google.com/gist/alejandro-ao/47db0b8b9d00b10a96ab42dd59d90b86/langchain-multimodal.ipynb)
+
+👉🏻[Notebook](https://colab.research.google.com/gist/alejandro-ao/47db0b8b9d00b10a96ab42dd59d90b86/langchain-multimodal.ipynb)
 
 ## 📌 Features 
 - 🔍 Extracts **text, tables, and images** from PDFs using `unstructured`
