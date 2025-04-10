@@ -2,6 +2,8 @@
 This project is a Retrieval-Augmented Generation (RAG) pipeline that enables intelligent question-answering from PDF documents using both **textual** and **visual** content (e.g., images, tables). Built with [LangChain](https://www.langchain.com/), it integrates tools like `unstructured`, OpenAI/Groq LLMs, and `ChromaDB` for multi-modal document understanding. 
 
 --- 
+Notebook link if not opened in repo
+[Notebook](https://colab.research.google.com/gist/alejandro-ao/47db0b8b9d00b10a96ab42dd59d90b86/langchain-multimodal.ipynb)
 
 ## 📌 Features 
 - 🔍 Extracts **text, tables, and images** from PDFs using `unstructured`
